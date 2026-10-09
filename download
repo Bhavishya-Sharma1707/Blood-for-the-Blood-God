@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.local/
+.openai/
+.sites-runtime/
+.wrangler/
+.env
+.env.*
+!.env.example
+*.log
+*.sqlite
+*.sqlite-*
+*.db
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db
